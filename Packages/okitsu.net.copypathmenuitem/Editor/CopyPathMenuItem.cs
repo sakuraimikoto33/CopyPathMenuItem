@@ -61,3 +61,7 @@ public static class CopyPathMenuItem
         return Selection.gameObjects.Length == 1;
     }
 }
+
+/* I made a modification of the script found in the following forum into a VPM package.
+Please contact me if you have any problems
+https://forum.unity.com/threads/please-include-a-copy-path-when-right-clicking-a-game-object.429480/ */
